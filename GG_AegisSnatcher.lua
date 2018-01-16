@@ -1,4 +1,5 @@
 -- https://github.com/marcialpaulg/DOTA-2-script
+-- requires dagger
 
 local GG_AegisSnatcher = {}
 
